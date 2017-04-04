@@ -1,0 +1,14 @@
+{
+    "name": "allarmark/box-test2",
+    "description": "Test 2 package",
+    "authors": [
+        {
+            "name": "Allar Märk",
+            "email": "info@allar.ee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
